@@ -1,0 +1,30 @@
+# Notas del Podcast
+
+## Instrucciones
+
+Esta carpeta contiene todas las notas relacionadas con los episodios del podcast. Cada episodio debe tener su propio archivo de notas.
+
+## Formato de las Notas
+
+1. **Título del Episodio**: Incluir el título del episodio.
+2. **Resumen**: Breve descripción del contenido del episodio.
+3. **Puntos Principales**: Lista de los puntos principales que se discutirán en el episodio.
+4. **Referencias**: Enlaces y referencias utilizadas durante la investigación.
+
+## Ejemplo
+
+```markdown
+# Episodio 1: El Misterio del Triángulo de las Bermudas
+
+## Resumen
+En este episodio, exploramos las teorías y misterios que rodean al Triángulo de las Bermudas, una región del Atlántico conocida por la desaparición de barcos y aviones.
+
+## Puntos Principales
+- Historia del Triángulo de las Bermudas
+- Teorías científicas
+- Relatos de desapariciones
+- Conclusiones y reflexiones
+
+## Referencias
+- [Artículo de Wikipedia](https://es.wikipedia.org/wiki/Tri%C3%A1ngulo_de_las_Bermudas)
+- [Documental en YouTube](https://www.youtube.com/watch?v=example)

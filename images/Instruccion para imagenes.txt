@@ -1,0 +1,32 @@
+### `images/README.md`
+
+```markdown
+# Imágenes del Podcast
+
+## Instrucciones
+
+Esta carpeta contiene todas las imágenes relacionadas con los episodios del podcast. Cada episodio debe tener su propia subcarpeta con imágenes.
+
+## Formato de las Subcarpetas
+
+1. **Nombre de la Subcarpeta**: `episodeX` donde X es el número del episodio.
+2. **Contenido**: Todas las imágenes relevantes para ese episodio.
+
+## Ejemplo de Organización
+
+images/
+├── episode1/
+│ ├── imagen1.jpg
+│ ├── imagen2.jpg
+│ └── imagen3.jpg
+├── episode2/
+│ ├── imagen1.jpg
+│ ├── imagen2.jpg
+│ └── imagen3.jpg
+└── ...
+
+
+## Consideraciones
+
+- Las imágenes deben estar en formato `.jpg`, `.png`, o `.gif`.
+- Nombra las imágenes de manera descriptiva para facilitar su identificación.

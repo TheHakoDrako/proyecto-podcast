@@ -1,0 +1,27 @@
+# Guiones del Podcast
+
+## Instrucciones
+
+Esta carpeta contiene los guiones de introducción, conclusión y otros segmentos del podcast.
+
+## Formato de los Guiones
+
+1. **Título del Guion**: Incluir el título o propósito del guion.
+2. **Contenido**: El texto completo del guion.
+
+## Ejemplo
+
+```markdown
+# Guion de Introducción
+
+## Introducción
+
+¡Hola y bienvenidos al podcast [Nombre del Podcast]! Soy [Nombre del Presentador] y hoy vamos a hablar sobre [Tema del Episodio]. Prepárate para adentrarte en el misterio de [Breve Descripción del Tema].
+
+## Cuerpo
+
+[Contenido del guion]
+
+## Cierre
+
+Gracias por escuchar. No olvides suscribirte y dejarnos tus comentarios. ¡Hasta la próxima!
